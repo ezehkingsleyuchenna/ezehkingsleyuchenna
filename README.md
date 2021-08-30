@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ezehkingsleyuchenna
 - 👀 I’m interested in Web / Mobile Development
-- 🌱 I’m currently learning Node.js + React.js
+- 🌱 I’m currently learning Node.js + React.js + Flutter
 - 💞️ I’m looking to collaborate on anyone and creating something great.
 - 📫 How to reach me: via my email. kingsley.uchenna.ezeh@gmail.com || +234 703 5499 679
 
