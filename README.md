@@ -1,7 +1,9 @@
+[![wakatime](https://wakatime.com/badge/user/26594143-f04d-4663-a1d7-9304e2d1a05d.svg)](https://wakatime.com/@26594143-f04d-4663-a1d7-9304e2d1a05d)
+
 - 👋 Hi, I’m @ezehkingsleyuchenna
-- 👀 I’m interested in Web / Mobile Development
-- I build web with php (Laravel)
-- 🌱 I’m currently learning Node.js + React.js + Flutter
+- 👀 I’m interested in Web / Mobile Development / Web3
+- I build web with php (Laravel - Livewire) , AlpineJs, Tailwind
+- 🌱 I’m currently learning Node.js + Express + React.js + EJS
 - 💞️ I’m looking to collaborate on anyone and creating something great.
 - 📫 How to reach me: via my email. kingsley.uchenna.ezeh@gmail.com || +234 703 5499 679
 
